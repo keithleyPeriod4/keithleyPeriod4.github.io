@@ -1,5 +1,5 @@
 <head>
-		<title>Mr Keithley, World's Okayest Teacher</title>
+		<title>{{ page.title }}</title>
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 	</head>
 <body>
@@ -11,6 +11,9 @@
         		<li><a href="/blog">Blog</a></li>
     		</ul>
 		</nav>
+	<div class="container">
+		{{ content }}
+	</div><!-- /.container -->
   <footer>
     		<ul>
         		<li><a href="mailto:akeithley@slusd.us">email</a></li>
