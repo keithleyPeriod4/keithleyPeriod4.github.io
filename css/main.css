@@ -1,18 +1,27 @@
-* {
+body {
     background-color: #DBE9EE;
 }
 
+h1 {
+	font-size: 64px;
+	text-shadow: -2px 2px #000000;
+	bottom: -20%;
+}
 .heading {
     background-image: url("https://c6.staticflickr.com/9/8329/8083698557_0d00d5b07c_b.jpg");
     margin-left: auto;
     margin-right: auto;
     width: 1024px;
     height: 683px;
+    position: relative;
 }
 
 #heading-content {
-    margin-top: auto;
-    margin-bottom: auto;
+	position: absolute;
+    top: 220px;
+    /*left: 0;*/
+    width: 100%;
+    bottom: 200px;
     text-align: center;
     color: #ffffff;
 }     
