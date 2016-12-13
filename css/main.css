@@ -8,26 +8,26 @@ h1 {
 	bottom: -20%;
 }
 .heading {
-    background-image: url("https://c6.staticflickr.com/9/8329/8083698557_0d00d5b07c_b.jpg");
-    margin-left: auto;
-    margin-right: auto;
-    width: 1024px;
-    height: 683px;
-    position: relative;
+    	background-image: url("https://c6.staticflickr.com/9/8329/8083698557_0d00d5b07c_b.jpg");
+    	margin-left: auto;
+    	margin-right: auto;
+    	width: 1024px;
+    	height: 683px;
+    	position: relative;
 }
 
 #heading-content {
 	position: absolute;
-    top: 220px;
-    /*left: 0;*/
-    width: 100%;
-    bottom: 200px;
-    text-align: center;
-    color: #ffffff;
+    	top: 220px;
+    	/*left: 0;*/
+    	width: 100%;
+    	bottom: 200px;
+    	text-align: center;
+    	color: #ffffff;
 }     
 
 #bike-photos {
-	width: 100%;
+	width: 800px;
 	margin-left: auto;
 	margin-right: auto;
 }
