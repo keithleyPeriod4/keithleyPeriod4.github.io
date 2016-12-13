@@ -25,3 +25,9 @@ h1 {
     text-align: center;
     color: #ffffff;
 }     
+
+#bike-photos {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
