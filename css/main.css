@@ -10,11 +10,14 @@ h1 {
 }
 .heading {
     	background-image: url("https://c6.staticflickr.com/9/8329/8083698557_0d00d5b07c_b.jpg");
-    	margin-left: auto;
+    	display: block;
+	margin-left: auto;
     	margin-right: auto;
-    	width: 1024px;
+    	/*
+	width: 1024px;
     	height: 683px;
     	position: relative;
+	*/
 }
 
 #heading-content {
