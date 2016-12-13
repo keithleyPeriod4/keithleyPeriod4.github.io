@@ -1,5 +1,7 @@
 body {
-    background-color: DimGray;
+	background-color: DimGray;
+	font-size: 100%;
+	
 }
 
 h1 {
@@ -25,7 +27,8 @@ h1 {
 }     
 
 #bike-photos {
-	width: 800px;
+	/*width: 800px;
+	*/
 	margin-left: auto;
 	margin-right: auto;
 }
