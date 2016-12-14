@@ -37,4 +37,6 @@ h1 {
 #next {
 	text-align: center;
 	background-color: White;
+	width: 300px;
+	height: 200px;
 }
