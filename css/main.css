@@ -1,7 +1,10 @@
 body {
 	background-color: DimGray;
-	font-size: 100%;
-	
+	font-size: 100%;	
+}
+
+table {
+	border: 1px;
 }
 
 h1 {
